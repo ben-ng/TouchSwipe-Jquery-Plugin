@@ -1,0 +1,25 @@
+{
+  "author": "Ben Ng <me@benng.me> (http://benng.me)",
+  "name": "touchswipe",
+  "description": "jQuery touch gestures made easy",
+  "keywords": [
+    "gesture",
+    "browserify",
+    "jquery",
+    "touch",
+    "swipe"
+  ],
+  "version": "1.6.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ben-ng/TouchSwipe-Jquery-Plugin"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
